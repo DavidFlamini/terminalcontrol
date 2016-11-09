@@ -1,0 +1,10 @@
+C:\Users\David\Google Drive\Sync\Sandbox\Terminal Control jan 2009\C-Sharp Usage Eample\bin\Debug\C-Sharp Usage Eample.exe
+C:\Users\David\Google Drive\Sync\Sandbox\Terminal Control jan 2009\C-Sharp Usage Eample\bin\Debug\C-Sharp Usage Eample.pdb
+C:\Users\David\Google Drive\Sync\Sandbox\Terminal Control jan 2009\C-Sharp Usage Eample\bin\Debug\TerminalControl.dll
+C:\Users\David\Google Drive\Sync\Sandbox\Terminal Control jan 2009\C-Sharp Usage Eample\bin\Debug\TerminalControl.pdb
+C:\Users\David\Google Drive\Sync\Sandbox\Terminal Control jan 2009\C-Sharp Usage Eample\obj\Debug\C-Sharp Usage Eample.csprojResolveAssemblyReference.cache
+C:\Users\David\Google Drive\Sync\Sandbox\Terminal Control jan 2009\C-Sharp Usage Eample\obj\Debug\C_Sharp_Usage_Eample.Form1.resources
+C:\Users\David\Google Drive\Sync\Sandbox\Terminal Control jan 2009\C-Sharp Usage Eample\obj\Debug\C_Sharp_Usage_Eample.Properties.Resources.resources
+C:\Users\David\Google Drive\Sync\Sandbox\Terminal Control jan 2009\C-Sharp Usage Eample\obj\Debug\C-Sharp Usage Eample.csproj.GenerateResource.Cache
+C:\Users\David\Google Drive\Sync\Sandbox\Terminal Control jan 2009\C-Sharp Usage Eample\obj\Debug\C-Sharp Usage Eample.exe
+C:\Users\David\Google Drive\Sync\Sandbox\Terminal Control jan 2009\C-Sharp Usage Eample\obj\Debug\C-Sharp Usage Eample.pdb
